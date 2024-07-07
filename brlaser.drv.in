@@ -634,3 +634,12 @@ Option "brlaserEconomode/Toner save mode" Boolean AnySetup 10
   Duplex rotated
   PCFileName "lnj2650d.ppd"
 }
+
+{
+  ModelName "M7600D"
+  Attribute "NickName" "" "Lenovo M7600D, $USING"
+  Attribute "1284DeviceID" "" "MFG:Lenovo;CMD:PJL,XL2HB;MDL:M7600D;CLS:PRINTER;"
+  Resolution k 1 0 0 0 "300dpi/300 DPI"
+  Duplex normal
+  PCFileName "m7600d.ppd"
+}

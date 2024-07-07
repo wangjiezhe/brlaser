@@ -84,6 +84,7 @@ The following printers have been reported to work with this driver:
 * Brother MFC-L2750DW series
 * Fuji Xerox DocuPrint P265 dw
 * Lenovo LJ2650DN
+* Lenovo M7600D
 
 
 Installation
